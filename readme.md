@@ -25,3 +25,6 @@ To run just a part of the problem, just add the second parameter.
 ```bash
 ./runProblem.sh <day> <problem>
 ```
+
+If you want make more days, just create a folder following the pattern of the
+given one.
