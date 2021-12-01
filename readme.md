@@ -1,4 +1,4 @@
-# DENO AOC2021
+# DENO AOC
 
 A simple but effective template for Advent of Code.
 
